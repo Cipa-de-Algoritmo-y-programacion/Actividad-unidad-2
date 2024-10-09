@@ -49,11 +49,17 @@ adivinar, pero no está en la posición correcta, se llama PICA.</li>
   Así, las pistas serán la cantidad de PICAS y la cantidad de FIJAS que se tienen. El juego termina cuando algún jugador tiene 4 FIJAS (4 dígitos en el orden adecuado).
 </p>
   
-15. Simular la división usando solamente restas. Dados dos números
-enteros mayores de uno, desarrollar un algoritmo calcule el cociente y el
-residuo usando sólo restas. Método: Restar el dividendo del divisor
-hasta obtener un resultado menor que el divisor, este resultado es el
-residuo, y el número de restas realizadas es el cociente.
+<h2>15. Simular la división usando solamente restas.</h2> 
+<p>Dados dos números enteros mayores de uno, desarrollar un algoritmo. 
+  <h3>calcule el cociente y el
+residuo usando sólo restas.</h3></p> 
+<p>Método:</p> 
+<li>Restar el dividendo del divisor
+hasta obtener un resultado menor que el divisor</li>
+<li>este resultado es el
+residuo</li>
+<li>y el número de restas realizadas es el cociente</li>
+
 
 <h2>18. En una tienda de descuento las personas que van a pagar el valor de sus
 compra llegan a la caja y sacan una bolita de color, que les dirá el
