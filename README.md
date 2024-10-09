@@ -24,7 +24,7 @@ condiciones:
   <li> C) Que tengo un peso entre 60 y 90 kilos.</li>
 </ul>
 
-<h5>Archivo: <strong>Apto.java</strong></h5>
+<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/Apto.java">Archivo</a>
 
 <h2>3. Realice un Programa, Digitado 5 Ventas en el Almacén XYZ Calcular:</h2>
   <ul>
@@ -52,6 +52,7 @@ las 35 horas. Cada hora por encima de 35 se considerará extra y se paga
 a $27.000. El programa pide las horas del trabajador y devuelve el salario
 que se le debe pagar. Además el programa debe preguntar si deseamos
 calcular otro salario, si es así el programa se vuelve a repetir.</p>
+<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/salarioSemanal.java">Archivo</a>
 
 <h2>12. Desarrollar el algoritmo para el Juego de Picas y Fijas.</h2>
 <p>El juego consiste en tratar de adivinar un número en la menor cantidad de intentos. En cada
@@ -86,9 +87,11 @@ descuento que tendrán sobre el total de su compra ✔️</h2>
   <li>si es amarillo un 25%</li>
   <li>si es blanco no obtendrá descuento.</li>
 </ul> 
+<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/descuentos.java">Archivo</a>
 
 <h2>23. Desarrollar un algoritmo que permita ingresar un número entero e
 imprima por pantalla la conversión de ese número en Binario. ✔️</h2>
+<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/Punto23.java">Archivo</a>
 
 
 
