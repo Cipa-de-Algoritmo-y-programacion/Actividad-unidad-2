@@ -40,7 +40,7 @@ condiciones:
 
   <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/ejercicio3.java">Archivo</a>
 
-<h2>6. Una empresa Mypime, paga a sus vendedores mediante, comisiones,
+<h2>6. Una empresa Mypime, paga a sus vendedores mediante comisiones,
 los vendedores reciben $250.000 pesos por semana, más el 9% de sus
 ventas durante esa semana.</h2> <h3>calcule:</h3>
 <ul>
