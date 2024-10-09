@@ -1,5 +1,6 @@
 ### Progreso del proyecto
 Tareas realizadas: 5/8
+🔵🔵🔵🔵🔵⚪⚪⚪
 
 > [!NOTE]  
 > Encontrarás toda la información respecto al repositorio en este documento.
