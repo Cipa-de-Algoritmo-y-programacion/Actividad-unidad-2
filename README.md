@@ -1,6 +1,6 @@
 ### Progreso del proyecto
-Tareas realizadas: 6/8
-🔵🔵🔵🔵🔵🔵⚪⚪
+Tareas realizadas: 7/8
+🔵🔵🔵🔵🔵🔵🔵⚪
 
 > [!NOTE]  
 > Encontrarás toda la información respecto al repositorio en este documento.
@@ -73,7 +73,7 @@ adivinar, pero no está en la posición correcta, se llama PICA.</li>
 </p>
 
   <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/PicasYFijas.java">Abrir Archivo</a>
-<h2>15. Simular la división usando solamente restas.</h2> 
+<h2>15. Simular la división usando solamente restas.✔️</h2> 
 <p>Dados dos números enteros mayores de uno, desarrollar un algoritmo. 
   <h3>calcule el cociente y el
 residuo usando sólo restas.</h3></p> 
