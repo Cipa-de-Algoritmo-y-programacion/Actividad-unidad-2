@@ -6,15 +6,13 @@ public class Punto23 {
         Scanner entero = new Scanner(System.in);
         int numero = 0; // variable
 
-        // Bucle 
-        do {
+        //Control de errores
+        try{
             System.out.print("Introduce un número entero ya sea positivo o negativo: ");
-            while (!entero.hasNextInt()) {
-                System.out.println("No es válida. Por favor, intentelo denuevo.");
-                entero.next(); // No válida
-            }
-            numero = entero.nextInt(); // Leer el número entero
-        } while (false); 
+            numero = entero.nextInt();
+        }catch(InputMismatchException e){
+            System.out.println("No es válido. Por favor, intentelo denuevo.");
+        }
 
         // Convertir a binario
         String binario = Integer.toBinaryString(numero);
