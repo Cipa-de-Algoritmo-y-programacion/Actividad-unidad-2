@@ -1,7 +1,7 @@
 # Actividad-unidad-2
 Repositorio donde se encuentran los puntos para desarrollar la actividad de la unidad 2
 
-1. Realizar un programa que Ingrese los datos del deportista e imprima, si
+<h2>1. Realizar un programa que Ingrese los datos del deportista e imprima sí</h2>
 es acto o no para poder ejercer el deporte, con las siguientes
 condiciones:
 <ul>
@@ -10,7 +10,7 @@ condiciones:
   <li> C) Que tengo un peso entre 60 y 90 kilos.</li>
 </ul>
 
-3. Realice un Programa, Digitado 5 Ventas en el Almacén XYZ Calcular:
+<h2>3. Realice un Programa, Digitado 5 Ventas en el Almacén XYZ Calcular:</h2>
 • ¿Cuántas ventas Fueron Mayores 1.000.000?
 • ¿El Promedio de las Ventas?
 • ¿Cuál Fue la Mayor Venta?
