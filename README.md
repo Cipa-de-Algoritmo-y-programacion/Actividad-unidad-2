@@ -17,7 +17,7 @@ Tareas realizadas: 5/8
 > Edita este documento si subes un archivo (chulea el punto realizado ✔️).
 
 > [!IMPORTANT]  
-> ### <em>Repositorio donde se encuentran los puntos para desarrollar la actividad de la unidad 2</em>.
+> ### <em>En este repositorio se encuentran los puntos para desarrollar la actividad de la unidad 2</em>.
 
 <h2>1.Realizar un programa que Ingrese los datos del deportista e imprima sí ✔️</h2>
 es acto o no para poder ejercer el deporte, con las siguientes
