@@ -1,3 +1,6 @@
+### Progreso del proyecto
+Tareas realizadas: X
+
 > [!NOTE]  
 > Encontrarás toda la información respecto al repositorio en este documento.
 
