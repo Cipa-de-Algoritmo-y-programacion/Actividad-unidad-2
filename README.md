@@ -1,6 +1,6 @@
 ### Progreso del proyecto
-Tareas realizadas: 5/8
-🔵🔵🔵🔵🔵⚪⚪⚪
+Tareas realizadas: 6/8
+🔵🔵🔵🔵🔵🔵⚪⚪
 
 > [!NOTE]  
 > Encontrarás toda la información respecto al repositorio en este documento.
@@ -28,7 +28,7 @@ condiciones:
   <li> C) Que tengo un peso entre 60 y 90 kilos.</li>
 </ul>
 
-<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/Apto.java">Archivo</a>
+<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/Apto.java">Abrir Archivo</a>
 
 <h2>3. Realice un Programa, Digitado 5 Ventas en el Almacén XYZ Calcular:✔️</h2>
   <ul>
@@ -38,7 +38,7 @@ condiciones:
     <li>¿Cuál Fue la Menor Venta?</li>
   </ul>
 
-  <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/ejercicio3.java">Archivo</a>
+  <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/ejercicio3.java">Abir Archivo</a>
 
 <h2>6. Una empresa Mypime, paga a sus vendedores mediante comisiones,
 los vendedores reciben $250.000 pesos por semana, más el 9% de sus
@@ -58,9 +58,9 @@ las 35 horas. Cada hora por encima de 35 se considerará extra y se paga
 a $27.000. El programa pide las horas del trabajador y devuelve el salario
 que se le debe pagar. Además el programa debe preguntar si deseamos
 calcular otro salario, si es así el programa se vuelve a repetir.</p>
-<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/ejercicio10.java">Archivo</a>
+<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/ejercicio10.java">Abrir Archivo</a>
 
-<h2>12. Desarrollar el algoritmo para el Juego de Picas y Fijas.</h2>
+<h2>12. Desarrollar el algoritmo para el Juego de Picas y Fijas.✔️</h2>
 <p>El juego consiste en tratar de adivinar un número en la menor cantidad de intentos. En cada
 intento, el jugador dice 4 dígitos (no repetidos) y el oponente da pistas de
 cuántos aciertos tuvo, sin indicarle cuales fueron, de la siguiente forma:</p>
@@ -71,7 +71,8 @@ adivinar, pero no está en la posición correcta, se llama PICA.</li>
 <p>
   Así, las pistas serán la cantidad de PICAS y la cantidad de FIJAS que se tienen. El juego termina cuando algún jugador tiene 4 FIJAS (4 dígitos en el orden adecuado).
 </p>
-  
+
+  <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/PicasYFijas.java">Abrir Archivo</a>
 <h2>15. Simular la división usando solamente restas.</h2> 
 <p>Dados dos números enteros mayores de uno, desarrollar un algoritmo. 
   <h3>calcule el cociente y el
@@ -93,7 +94,7 @@ descuento que tendrán sobre el total de su compra ✔️</h2>
   <li>si es amarillo un 25%</li>
   <li>si es blanco no obtendrá descuento.</li>
 </ul> 
-<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/ejercicio18.java">Archivo</a>
+<a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/ejercicio18.java">Abrir Archivo</a>
 
 <h2>23. Desarrollar un algoritmo que permita ingresar un número entero e
 imprima por pantalla la conversión de ese número en Binario. ✔️</h2>
