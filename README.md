@@ -44,9 +44,9 @@ condiciones:
 los vendedores reciben $250.000 pesos por semana, más el 9% de sus
 ventas durante esa semana.</h2> <h3>calcule:</h3>
 <ul>
-  <li>Cuanto es valor a pagar por mes</li>
+  <li>Cuanto es el valor a pagar por mes</li>
   <li>Ingresar ventas por vendedor</li>
-  <li>e imprimir, información</li>
+  <li>e imprimir información</li>
 </ul>
 <p>el número de vendedores son 5.</p>
 
