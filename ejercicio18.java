@@ -46,9 +46,10 @@ public class ejercicio18 {
 
             System.out.println("Quiere calcular la compra de otro Cliente? (Si/No)");
             ejecucion = sc.next();
+            ejecucion = ejecucion.toLowerCase();
 
             // COMPROBAR LOS CASOS EN LOS CUALES SE VUELVE A EJECUTAR EL ALGORITMO
-        }while(ejecucion.equals("si") || ejecucion.equals("Si") || ejecucion.equals("SI"));
+        }while(ejecucion.equals("si"));
         System.out.println("El programa ha finalizado");
 
 
