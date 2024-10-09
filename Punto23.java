@@ -8,7 +8,7 @@ public class Punto23 {
 
         //Control de errores
         try{
-            System.out.print("Introduce un número entero ya sea positivo o negativo: ");
+            System.out.print("Introduce cualquier número entero ya sea positivo o negativo: ");
             numero = entero.nextInt();
         }catch(InputMismatchException e){
             System.out.println("No es válido. Por favor, intentelo denuevo.");
