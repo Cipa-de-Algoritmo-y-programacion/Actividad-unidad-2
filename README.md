@@ -26,13 +26,15 @@ condiciones:
 
 <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/Apto.java">Archivo</a>
 
-<h2>3. Realice un Programa, Digitado 5 Ventas en el Almacén XYZ Calcular:</h2>
+<h2>3. Realice un Programa, Digitado 5 Ventas en el Almacén XYZ Calcular:✔️</h2>
   <ul>
     <li>¿Cuántas ventas Fueron Mayores 1.000.000?</li>
     <li>¿El Promedio de las Ventas?</li>
     <li>¿Cuál Fue la Mayor Venta?</li>
     <li>¿Cuál Fue la Menor Venta?</li>
   </ul>
+
+  <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-unidad-2/blob/main/ejercicio3.java">Archivo</a>
 
 <h2>6. Una empresa Mypime, paga a sus vendedores mediante, comisiones,
 los vendedores reciben $250.000 pesos por semana, más el 9% de sus
