@@ -18,6 +18,8 @@ condiciones:
   <li> C) Que tengo un peso entre 60 y 90 kilos.</li>
 </ul>
 
+<h5>Apto.java</h5>
+
 <h2>3. Realice un Programa, Digitado 5 Ventas en el Almacén XYZ Calcular:</h2>
   <ul>
     <li>¿Cuántas ventas Fueron Mayores 1.000.000?</li>
