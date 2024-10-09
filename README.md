@@ -1,6 +1,12 @@
 > [!NOTE]  
 > Encontrarás toda la información respecto al repositorio en este documento.
 
+> # Integrantes
+> <li>Bella Samai Botello Meza</li>
+> <li>Kevin Manuel Gómez Rojas</li>
+> <li>Nathan Gama Jimenez</li>
+> <li>Maria Camila Lopez Villa</li>
+
 
 # Actividad-unidad-2
 > [!TIP]
