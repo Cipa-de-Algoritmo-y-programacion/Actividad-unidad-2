@@ -1,5 +1,5 @@
 ### Progreso del proyecto
-Tareas realizadas: 7/8
+Tareas realizadas: 8/8
 🔵🔵🔵🔵🔵🔵🔵🔵
 
 > [!NOTE]  
